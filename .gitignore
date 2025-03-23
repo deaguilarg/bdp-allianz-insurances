@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+env/
+.env/
+
+# Archivos de modelos y bases de datos
+*.gguf
+*.faiss
+*.npy
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+temp/
+tmp/
+*.log 
