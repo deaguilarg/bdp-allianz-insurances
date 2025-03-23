@@ -22,25 +22,12 @@ Este proyecto implementa un sistema de Recuperación Aumentada de Generación (R
 
 ## 🚀 Instalación
 
-1. Clonar el repositorio:
-```bash
-git clone [url-del-repositorio]
-cd [nombre-del-repositorio]
-```
-
-2. Crear y activar entorno virtual:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\\Scripts\\activate   # Windows
-```
-
-3. Instalar dependencias:
+1. Instalar dependencias:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Descargar el modelo Llama 2:
+2. Descargar el modelo Llama 2:
 - Asegurarse de tener el archivo `llama-2-7b-chat.q4_k_m.gguf` en el directorio raíz
 
 ## 💾 Preparación de Datos
@@ -127,14 +114,6 @@ python test_llama.py
 - El modelo Llama 2 debe estar en el directorio raíz
 - Se recomienda usar GPU para mejor rendimiento
 - La base de datos vectorial se actualiza al procesar nuevos documentos
-
-## 🤝 Contribución
-
-1. Fork el repositorio
-2. Crea una rama para tu feature
-3. Commit tus cambios
-4. Push a la rama
-5. Crea un Pull Request
 
 ## 📄 Licencia
 
