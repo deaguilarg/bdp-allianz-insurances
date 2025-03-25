@@ -1,129 +1,91 @@
-# Sistema RAG para Documentación de Seguros Allianz
+# Sistema RAG para Análisis de Documentos de Seguros
 
-Este proyecto implementa un sistema de Recuperación Aumentada de Generación (RAG) para procesar y consultar documentación de seguros utilizando Llama 2 y una base de datos vectorial.
+Este proyecto implementa un sistema de Retrieval-Augmented Generation (RAG) optimizado para el análisis y consulta de documentos de seguros.
 
-## 🏗️ Estructura del Proyecto
+## Requisitos
 
-```
-.
-├── data/                    # Directorio para documentos PDF y TXT
-├── loader.py               # Procesador de documentos y creación de índices
-├── RAG.py                 # Sistema RAG principal
-├── db_viewer.py           # Visualizador web de la base de datos vectorial
-├── test_llama.py          # Script de prueba para el modelo Llama 2
-└── requirements.txt       # Dependencias del proyecto
-```
-
-## 📋 Requisitos
-
-1. Python 3.8+
-2. Modelo Llama 2: `llama-2-7b-chat.Q5_K_S.gguf` (se descarga automáticamente con `download_model.py`)
-3. Dependencias Python listadas en `requirements.txt`
-
-## 🚀 Instalación
-
-1. Instalar dependencias:
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Descargar el modelo Llama 2:
-```bash
-python download_model.py
+## Estructura del Proyecto
+
 ```
-Este script descargará automáticamente el modelo `llama-2-7b-chat.Q5_K_S.gguf` desde Hugging Face.
-- Tamaño aproximado: 4.65GB
-- Tiempo estimado de descarga: 5-10 minutos (dependiendo de la conexión)
-- Asegúrate de tener suficiente espacio en disco (mínimo 5GB)
-
-Alternativamente, puedes descargar manualmente el modelo desde:
-https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF/resolve/main/llama-2-7b-chat.Q5_K_S.gguf
-
-## 💾 Preparación de Datos
-
-1. Colocar los documentos PDF/TXT en la carpeta `data/`
-2. Ejecutar el procesador de documentos:
-```bash
-python loader.py
+.
+├── RAG.py              # Script principal del sistema RAG
+├── test_rag.py         # Script para pruebas de rendimiento
+├── data_wrangler.py    # Herramienta de análisis de PDFs
+├── preparsed_data/     # Directorio para documentos PDF
+└── requirements.txt    # Dependencias del proyecto
 ```
 
-## 🔍 Uso del Sistema
+## Uso del Sistema RAG
 
-### Visualizar Base de Datos
+1. **Preparación**:
+   - Coloca tus archivos PDF en el directorio `preparsed_data/`
+   - Activa el entorno virtual:
+     ```bash
+     .\venv\Scripts\activate  # Windows
+     source venv/bin/activate # Linux/Mac
+     ```
+
+2. **Análisis de Documentos**:
+   ```bash
+   python data_wrangler.py
+   ```
+   Este comando analizará los PDFs y generará visualizaciones útiles.
+
+3. **Consultas al Sistema**:
+   ```bash
+   python RAG.py
+   ```
+
+## Parámetros Configurables
+
+En `RAG.py`:
+- `chunk_size`: Tamaño de los fragmentos de texto (default: 500)
+- `chunk_overlap`: Superposición entre fragmentos (default: 50)
+- `top_k`: Número de resultados a recuperar (default: 4)
+
+## Optimización de Rendimiento
+
+El sistema está optimizado para:
+- Uso eficiente de GPU cuando está disponible
+- Caché de embeddings para consultas frecuentes
+- Procesamiento por lotes para mejor rendimiento
+
+## Pruebas de Rendimiento
+
+Para ejecutar pruebas de rendimiento:
 ```bash
-streamlit run db_viewer.py
+python test_rag.py
 ```
-- Ver todos los fragmentos indexados
-- Realizar búsquedas semánticas
-- Explorar el contenido procesado
 
-### Usar el Sistema RAG
-```bash
-python RAG.py
-```
-- Hacer preguntas sobre la documentación
-- Obtener respuestas basadas en el contexto
-- Interactuar con el modelo Llama 2
+## Análisis de Documentos
 
-### Probar el Modelo
-```bash
-python test_llama.py
-```
-- Verificar el funcionamiento básico del modelo
-- Realizar pruebas simples de generación
+El script `data_wrangler.py` proporciona:
+- Análisis de estructura de documentos
+- Estadísticas de contenido
+- Visualizaciones de datos
+- Análisis de términos de seguros
 
-## 🔄 Flujo de Trabajo
+## Notas Importantes
 
-1. **Procesamiento de Documentos** (`loader.py`):
-   - Carga documentos PDF/TXT
-   - Divide en secciones relevantes
-   - Genera embeddings
-   - Crea índice vectorial FAISS
-
-2. **Base de Datos Vectorial**:
-   - Almacena fragmentos de texto
-   - Mantiene índices para búsqueda rápida
-   - Permite búsquedas semánticas
-
-3. **Sistema RAG** (`RAG.py`):
-   - Recibe preguntas del usuario
-   - Busca contexto relevante
-   - Genera respuestas usando Llama 2
-
-## 📊 Componentes Principales
-
-### Loader (`loader.py`)
-- Clase `DocumentProcessor`
-- Manejo de múltiples formatos
-- Procesamiento de texto inteligente
-- Generación de embeddings
-
-### RAG (`RAG.py`)
-- Clase `RAGSimple`
-- Integración con Llama 2
-- Búsqueda de contexto
-- Generación de respuestas
-
-### Visualizador (`db_viewer.py`)
-- Interfaz web con Streamlit
-- Exploración de datos
-- Búsqueda semántica
-- Visualización de fragmentos
-
-## 🛠️ Configuración
-
-- Modelo: CPU por defecto (cambiar `gpu_layers=0` para GPU)
-- Contexto: 2048 tokens máximo
-- Threads: 4 (ajustable según CPU)
-- Fragmentos: ~1000 caracteres por sección
-
-## 📝 Notas
-
-- Los documentos deben estar en la carpeta `data/`
-- El modelo Llama 2 debe estar en el directorio raíz
+- El sistema está optimizado para documentos en español
 - Se recomienda usar GPU para mejor rendimiento
-- La base de datos vectorial se actualiza al procesar nuevos documentos
+- Los documentos deben estar en formato PDF
+- El sistema maneja automáticamente la memoria para documentos grandes
 
-## 📄 Licencia
+## Solución de Problemas
 
-Este proyecto es privado y para uso interno. 
+1. **Uso de Memoria**:
+   - Ajusta `chunk_size` para documentos grandes
+   - Utiliza el modo batch para procesar grandes volúmenes
+
+2. **Rendimiento**:
+   - Verifica la disponibilidad de GPU
+   - Ajusta `top_k` según necesidades
+
+3. **Calidad de Respuestas**:
+   - Ajusta el prompt según el dominio específico
+   - Modifica los parámetros de chunking 
