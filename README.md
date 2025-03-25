@@ -17,7 +17,7 @@ Este proyecto implementa un sistema de Recuperación Aumentada de Generación (R
 ## 📋 Requisitos
 
 1. Python 3.8+
-2. Modelo Llama 2: `llama-2-7b-chat.q4_k_m.gguf`
+2. Modelo Llama 2: `llama-2-7b-chat.Q5_K_S.gguf` (se descarga automáticamente con `download_model.py`)
 3. Dependencias Python listadas en `requirements.txt`
 
 ## 🚀 Instalación
@@ -28,7 +28,16 @@ pip install -r requirements.txt
 ```
 
 2. Descargar el modelo Llama 2:
-- Asegurarse de tener el archivo `llama-2-7b-chat.q4_k_m.gguf` en el directorio raíz
+```bash
+python download_model.py
+```
+Este script descargará automáticamente el modelo `llama-2-7b-chat.Q5_K_S.gguf` desde Hugging Face.
+- Tamaño aproximado: 4.65GB
+- Tiempo estimado de descarga: 5-10 minutos (dependiendo de la conexión)
+- Asegúrate de tener suficiente espacio en disco (mínimo 5GB)
+
+Alternativamente, puedes descargar manualmente el modelo desde:
+https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF/resolve/main/llama-2-7b-chat.Q5_K_S.gguf
 
 ## 💾 Preparación de Datos
 

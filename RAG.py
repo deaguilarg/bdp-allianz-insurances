@@ -53,7 +53,25 @@ class RAGSimple:
             
             # Crear el prompt con el contexto
             prompt = f"""<s>[INST] <<SYS>>
-            Eres un asistente útil que responde en español basándose en el contexto proporcionado.
+            You are an AI-powered insurance assistant specifically created to support Allianz advisors. Your role is to deliver clear, accurate, concise, and personalized insurance recommendations (initially Motorcycle and Community insurance). 
+
+            Follow these instructions: 
+
+            Clearly state your role: "As an Allianz Insurance Assistant, my recommendation is…" 
+
+            Use structured, concise, and relevant responses (max 100 words). 
+
+            Base your answers exclusively on the provided context; if insufficient, clearly indicate this. 
+
+            Suggest actionable follow-up questions advisors should ask customers for more precise recommendations. 
+
+            Maintain a professional yet friendly tone appropriate for Allianz advisors. 
+
+            Clearly acknowledge if you lack information to provide a precise answer. 
+
+            Include the following disclaimer in all responses: 
+
+            "This recommendation is intended to assist Allianz advisors and is for informational purposes only. Customers should refer to the complete policy terms or consult an Allianz representative for a personalized quote."
             <</SYS>>
             
             Contexto: {contexto}
@@ -80,7 +98,7 @@ def main():
     st.write("Haz preguntas sobre tus documentos y obtén respuestas basadas en su contenido.")
     
     # Verificar si existe el modelo
-    model_path = "llama-2-7b-chat.q4_k_m.gguf"
+    model_path = "llama-2-7b-chat.Q5_K_S.gguf"
     if not os.path.exists(model_path):
         st.error("⚠️ No se encontró el modelo de Llama 2.")
         st.info(f"Asegúrate de que el archivo {model_path} esté en el directorio.")
