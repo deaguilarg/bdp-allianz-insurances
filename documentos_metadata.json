@@ -1,0 +1,5192 @@
+{
+  "20250226_CCGG_AZ_ Comunidades_V_Reducida.pdf": {
+    "file_info": {
+      "filename": "20250226_CCGG_AZ_ Comunidades_V_Reducida.pdf",
+      "doc_hash": "4ba3f78cee5f8d3d8012f7cc323f6669",
+      "file_size_bytes": 424045,
+      "last_modified": "2025-03-13T21:13:15.898105",
+      "created_date": "2025-03-13T21:13:15.898105",
+      "path": "preparsed_data\\20250226_CCGG_AZ_ Comunidades_V_Reducida.pdf"
+    },
+    "document_info": {
+      "title": "Internal  ",
+      "num_pages": 15,
+      "word_count": 3364,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "asegurado",
+        "daños",
+        "para",
+        "como",
+        "internal",
+        "seguro",
+        "bienes",
+        "cuando",
+        "seguros",
+        "cobertura"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 18,
+        "prima": 1,
+        "cobertura": 27,
+        "exclusiones": 1,
+        "beneficiario": 2,
+        "asegurado": 53,
+        "aseguradora": 6,
+        "siniestro": 19,
+        "indemnización": 12,
+        "reclamación": 3,
+        "vigencia": 1,
+        "franquicia": 14
+      },
+      "insurance_terms_ratio": 0.04667063020214031,
+      "main_sections": [
+        "SUMARIO  \nCONDICIONES PARTICULARES Y GENERALES",
+        "CAPÍTULO I",
+        "CAPÍTULO II",
+        "CAPÍTULO III",
+        "CAPÍTULO IV",
+        "CAPÍTULO V",
+        "LEGISLACIÓN APLICABLE",
+        "Internal  \n \nInternal \n  \nSUMARIO",
+        "CONDICIONES PARTICULARES Y GENERALES  \nCAPÍTULO I",
+        "CONDICIONES PARTICULARES Y GENERALES"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.651077",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "allianz-ciber-plus-ipid.pdf": {
+    "file_info": {
+      "filename": "allianz-ciber-plus-ipid.pdf",
+      "doc_hash": "19dec489c00f04010eea58a98d4bdb3d",
+      "file_size_bytes": 297547,
+      "last_modified": "2025-03-22T16:39:48.297789",
+      "created_date": "2025-03-22T16:39:47.719470",
+      "path": "preparsed_data\\allianz-ciber-plus-ipid.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Responsabilidad Civil",
+      "num_pages": 3,
+      "word_count": 894,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "datos",
+        "asistencia",
+        "asegurado",
+        "seguridad",
+        "contrato",
+        "como",
+        "para",
+        "personales",
+        "sobre",
+        "informática"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 8,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 11,
+        "aseguradora": 1,
+        "siniestro": 4,
+        "reclamación": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.035794183445190156,
+      "main_sections": [
+        "Seguro de Responsabilidad Civil",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.693438",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "allianz-danos-externos-para-maquinaria.pdf": {
+    "file_info": {
+      "filename": "allianz-danos-externos-para-maquinaria.pdf",
+      "doc_hash": "38135a5f5f9130b5de35222eb92b48c6",
+      "file_size_bytes": 346988,
+      "last_modified": "2025-03-22T16:39:09.136099",
+      "created_date": "2025-03-22T16:39:08.528550",
+      "path": "preparsed_data\\allianz-danos-externos-para-maquinaria.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 852,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "tomador",
+        "cualquier",
+        "bienes",
+        "como",
+        "para",
+        "póliza",
+        "siniestros",
+        "daños",
+        "asegurados"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 9,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 6,
+        "aseguradora": 1,
+        "siniestro": 4
+      },
+      "insurance_terms_ratio": 0.03403755868544601,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Sumas aseguradas",
+        "Daños externos para maquinaria",
+        "Allianz daños externos \npara maquinaria",
+        "SOLORE NISSINTO DITAM"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.782818",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "allianz-seguro-de-construccion.pdf": {
+    "file_info": {
+      "filename": "allianz-seguro-de-construccion.pdf",
+      "doc_hash": "d3d224c7bc17067f595117b2fc5eb54d",
+      "file_size_bytes": 343989,
+      "last_modified": "2025-03-22T16:39:04.188899",
+      "created_date": "2025-03-22T16:39:03.628391",
+      "path": "preparsed_data\\allianz-seguro-de-construccion.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 623,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "póliza",
+        "tomador",
+        "cualquier",
+        "como",
+        "bienes",
+        "asegurado",
+        "cobertura",
+        "debe",
+        "pago"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 10,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 5,
+        "aseguradora": 1,
+        "siniestro": 3
+      },
+      "insurance_terms_ratio": 0.0449438202247191,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Sumas aseguradas",
+        "Seguro de construcción",
+        "Allianz seguro de construcción",
+        "SOLORE NISSINTO DITAM",
+        "Fuerzas Armadas o Cuerpos de Seguridad en",
+        "Los siniestros calificados por el poder público"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.827560",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "allianz-seguro-de-rotura-de-maquinaria.pdf": {
+    "file_info": {
+      "filename": "allianz-seguro-de-rotura-de-maquinaria.pdf",
+      "doc_hash": "f2d321f1b655df58b24bef99344aa979",
+      "file_size_bytes": 343779,
+      "last_modified": "2025-03-22T16:39:06.459456",
+      "created_date": "2025-03-22T16:39:05.845350",
+      "path": "preparsed_data\\allianz-seguro-de-rotura-de-maquinaria.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 617,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "tomador",
+        "póliza",
+        "daños",
+        "como",
+        "maquinaria",
+        "cualquier",
+        "riesgo",
+        "cobertura",
+        "debe"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 10,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 4,
+        "aseguradora": 1,
+        "siniestro": 3
+      },
+      "insurance_terms_ratio": 0.04376012965964344,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Sumas aseguradas",
+        "Seguro de rotura de maquinaria",
+        "Allianz seguro de \nrotura de maquinaria",
+        "Los daños producidos cuando el siniestro se",
+        "Los daños ocasionados directamente por los",
+        "SOLORE NISSINTO DITAM",
+        "Los siniestros ocurridos a consecuencia de"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.876388",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "allianz-seguro-decenal-de-danos-a-la-edificacion.pdf": {
+    "file_info": {
+      "filename": "allianz-seguro-decenal-de-danos-a-la-edificacion.pdf",
+      "doc_hash": "4700f08141418d8872fcf7ac49dc748d",
+      "file_size_bytes": 347713,
+      "last_modified": "2025-03-22T16:39:11.821150",
+      "created_date": "2025-03-22T16:39:10.995333",
+      "path": "preparsed_data\\allianz-seguro-decenal-de-danos-a-la-edificacion.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 816,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "tomador",
+        "para",
+        "edificio",
+        "póliza",
+        "asegurado",
+        "cobertura",
+        "como",
+        "recepción"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "cargas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 8,
+        "prima": 3,
+        "cobertura": 7,
+        "beneficiario": 1,
+        "asegurado": 7,
+        "aseguradora": 1,
+        "siniestro": 3,
+        "indemnización": 3,
+        "cargas": 1
+      },
+      "insurance_terms_ratio": 0.041666666666666664,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Sumas aseguradas",
+        "Seguro decenal de daños a la edificación",
+        "Allianz seguro decenal  \nde daños a la edificación",
+        "SOLORE NISSINTO DITAM"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.926500",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-basico.pdf": {
+    "file_info": {
+      "filename": "auto-plus-basico.pdf",
+      "doc_hash": "6ea89e1fab8392c27cc8189b4624fa49",
+      "file_size_bytes": 304416,
+      "last_modified": "2025-03-22T16:34:01.919247",
+      "created_date": "2025-03-22T16:34:01.356759",
+      "path": "preparsed_data\\auto-plus-basico.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:03:18 02012010228530TF22CI39 ARINPRO0 9510278 /T.E:000/VC:000/CAP:000/T.C:A",
+      "num_pages": 2,
+      "word_count": 439,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "euros",
+        "responsabilidad",
+        "para",
+        "póliza",
+        "contrato",
+        "civil",
+        "hasta"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 2,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04783599088838269,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.959496",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-franquicia1.pdf": {
+    "file_info": {
+      "filename": "auto-plus-franquicia1.pdf",
+      "doc_hash": "fab158d7b785c81e3abc842eaae24cfb",
+      "file_size_bytes": 300663,
+      "last_modified": "2025-03-22T16:34:09.028813",
+      "created_date": "2025-03-22T16:34:08.506186",
+      "path": "preparsed_data\\auto-plus-franquicia1.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:05:01 02012010228530TF22CI39 ARINPRO0 9510278 /T.E:000/VC:000/CAP:000/T.C:A",
+      "num_pages": 2,
+      "word_count": 460,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "euros",
+        "póliza",
+        "responsabilidad",
+        "contrato",
+        "civil",
+        "hasta",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 7,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 4,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1,
+        "franquicia": 3
+      },
+      "insurance_terms_ratio": 0.06086956521739131,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:41.976750",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-franquicia2.pdf": {
+    "file_info": {
+      "filename": "auto-plus-franquicia2.pdf",
+      "doc_hash": "226a5bab196759e22257b2a0123a4ae8",
+      "file_size_bytes": 304551,
+      "last_modified": "2025-03-22T16:34:11.981328",
+      "created_date": "2025-03-22T16:34:11.441029",
+      "path": "preparsed_data\\auto-plus-franquicia2.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:05:42 02012010228530TF22CI39 ARINPRO0 9510278 /T.E:000/VC:000/CAP:000/T.C:A",
+      "num_pages": 2,
+      "word_count": 460,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "euros",
+        "póliza",
+        "responsabilidad",
+        "contrato",
+        "civil",
+        "hasta",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 7,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 4,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1,
+        "franquicia": 3
+      },
+      "insurance_terms_ratio": 0.06086956521739131,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.010281",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-robo-incendio.pdf": {
+    "file_info": {
+      "filename": "auto-plus-robo-incendio.pdf",
+      "doc_hash": "c17e90784e309cc4d7f698816091a6ea",
+      "file_size_bytes": 304474,
+      "last_modified": "2025-03-22T16:34:04.677338",
+      "created_date": "2025-03-22T16:34:04.156672",
+      "path": "preparsed_data\\auto-plus-robo-incendio.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:04:18 02012010228530TF22CI39 ARINPRO0 9510278 /T.E:000/VC:000/CAP:000/T.C:A",
+      "num_pages": 2,
+      "word_count": 449,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "euros",
+        "responsabilidad",
+        "para",
+        "póliza",
+        "contrato",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 2,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.0467706013363029,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.035168",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-terceros.pdf": {
+    "file_info": {
+      "filename": "auto-plus-terceros.pdf",
+      "doc_hash": "4c58abc85e54a642b78e6e23826cbed8",
+      "file_size_bytes": 304293,
+      "last_modified": "2025-03-22T16:33:58.587249",
+      "created_date": "2025-03-22T16:33:58.140023",
+      "path": "preparsed_data\\auto-plus-terceros.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:02:32 02012010228530TF22CI39 ARINPRO0 9510278 /T.E:000/VC:000/CAP:000/T.C:A",
+      "num_pages": 2,
+      "word_count": 416,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "civil",
+        "para",
+        "cobertura"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 2,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04807692307692308,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.063249",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "auto-plus-tr-sin-franquicia.pdf": {
+    "file_info": {
+      "filename": "auto-plus-tr-sin-franquicia.pdf",
+      "doc_hash": "8e15151877315769d6c6e4647073ddcb",
+      "file_size_bytes": 287104,
+      "last_modified": "2025-03-22T16:34:06.788488",
+      "created_date": "2025-03-22T16:34:06.273329",
+      "path": "preparsed_data\\auto-plus-tr-sin-franquicia.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 444,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "seguro",
+        "daños",
+        "euros",
+        "responsabilidad",
+        "póliza",
+        "contrato",
+        "civil",
+        "hasta",
+        "cobertura"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 2,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1,
+        "franquicia": 2
+      },
+      "insurance_terms_ratio": 0.0518018018018018,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.087293",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ciber-plus-basico-ipid.pdf": {
+    "file_info": {
+      "filename": "ciber-plus-basico-ipid.pdf",
+      "doc_hash": "e54069b5c957fcce935d046e9fa65fe1",
+      "file_size_bytes": 297327,
+      "last_modified": "2025-03-22T16:39:40.972796",
+      "created_date": "2025-03-22T16:39:40.262277",
+      "path": "preparsed_data\\ciber-plus-basico-ipid.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Responsabilidad Civil",
+      "num_pages": 3,
+      "word_count": 872,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "datos",
+        "asistencia",
+        "asegurado",
+        "seguridad",
+        "contrato",
+        "como",
+        "para",
+        "personales",
+        "sobre",
+        "protección"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 8,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 11,
+        "aseguradora": 1,
+        "siniestro": 5,
+        "reclamación": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.03784403669724771,
+      "main_sections": [
+        "Seguro de Responsabilidad Civil",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.118912",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ciber-plus-optimo-ipid.pdf": {
+    "file_info": {
+      "filename": "ciber-plus-optimo-ipid.pdf",
+      "doc_hash": "b89ed1c456a97ac3b662fba39253725f",
+      "file_size_bytes": 297166,
+      "last_modified": "2025-03-22T16:39:43.543138",
+      "created_date": "2025-03-22T16:39:42.828817",
+      "path": "preparsed_data\\ciber-plus-optimo-ipid.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Responsabilidad Civil",
+      "num_pages": 3,
+      "word_count": 872,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "datos",
+        "asistencia",
+        "asegurado",
+        "seguridad",
+        "contrato",
+        "como",
+        "para",
+        "personales",
+        "sobre",
+        "protección"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 8,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 11,
+        "aseguradora": 1,
+        "siniestro": 5,
+        "reclamación": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.03784403669724771,
+      "main_sections": [
+        "Seguro de Responsabilidad Civil",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.159906",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "folleto-informativo-decesos.pdf": {
+    "file_info": {
+      "filename": "folleto-informativo-decesos.pdf",
+      "doc_hash": "928c61e178f7769bbc5cebddac5077b4",
+      "file_size_bytes": 1186012,
+      "last_modified": "2025-03-22T16:39:14.562871",
+      "created_date": "2025-03-22T16:39:13.295384",
+      "path": "preparsed_data\\folleto-informativo-decesos.pdf"
+    },
+    "document_info": {
+      "title": "folleto-informativo-decesos.pdf",
+      "num_pages": 5,
+      "word_count": 282,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "allianz",
+        "para",
+        "asistencia",
+        "decesos",
+        "servicios",
+        "fallecimiento",
+        "póliza",
+        "prima",
+        "testamento",
+        "completo"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "indemnización"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 4,
+        "prima": 4,
+        "cobertura": 2,
+        "indemnización": 1
+      },
+      "insurance_terms_ratio": 0.03900709219858156,
+      "main_sections": [
+        "ALLIANZ DECESOS",
+        "Mirando hacia el futuro\nALLIANZ DECESOS",
+        "1\nMirando hacia el futuro\nALLIANZ DECESOS",
+        "ALLIANZ DECESOS",
+        "Modalidades de contratación\nALLIANZ DECESOS",
+        "Allianz decesos\nUn seguro que se encarga de cubrir",
+        "Con Allianz Decesos Plus tendrás la tranquilidad",
+        "Podrás decidir las coberturas que deseas incluir",
+        "Esencial\nExtra\nCompleto\nRepatriación\nTotal",
+        "La cobertura que adicionalmente incluye"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.640489",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-ampliado.pdf": {
+    "file_info": {
+      "filename": "ipid-ampliado.pdf",
+      "doc_hash": "557659c71f04aa890b791c8bc9f24be5",
+      "file_size_bytes": 283821,
+      "last_modified": "2025-03-22T16:39:02.084735",
+      "created_date": "2025-03-22T16:39:01.411997",
+      "path": "preparsed_data\\ipid-ampliado.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Accidentes",
+      "num_pages": 2,
+      "word_count": 473,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "accidente",
+        "asegurado",
+        "fallecimiento",
+        "invalidez",
+        "seguro",
+        "accidentes",
+        "como",
+        "permanente",
+        "sanitaria",
+        "cobertura"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 9,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.048625792811839326,
+      "main_sections": [
+        "Seguro de Accidentes",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.671734",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-basico.pdf": {
+    "file_info": {
+      "filename": "ipid-basico.pdf",
+      "doc_hash": "5f3e06e8eff3116b5bdfff2e32236b01",
+      "file_size_bytes": 281603,
+      "last_modified": "2025-03-22T16:38:55.524397",
+      "created_date": "2025-03-22T16:38:54.929187",
+      "path": "preparsed_data\\ipid-basico.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Accidentes",
+      "num_pages": 2,
+      "word_count": 422,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "asegurado",
+        "fallecimiento",
+        "seguro",
+        "accidentes",
+        "accidente",
+        "como",
+        "invalidez",
+        "cobertura",
+        "cualquier",
+        "hasta"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 9,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.054502369668246446,
+      "main_sections": [
+        "Seguro de Accidentes",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.702974",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-ciber-plus-ampliado.pdf": {
+    "file_info": {
+      "filename": "ipid-ciber-plus-ampliado.pdf",
+      "doc_hash": "ca39ab4395112e1384ab9062f769b2e3",
+      "file_size_bytes": 297583,
+      "last_modified": "2025-03-22T16:39:45.967746",
+      "created_date": "2025-03-22T16:39:45.311716",
+      "path": "preparsed_data\\ipid-ciber-plus-ampliado.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Responsabilidad Civil",
+      "num_pages": 3,
+      "word_count": 894,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "datos",
+        "asistencia",
+        "asegurado",
+        "seguridad",
+        "contrato",
+        "como",
+        "para",
+        "personales",
+        "sobre",
+        "informática"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 8,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 11,
+        "aseguradora": 1,
+        "siniestro": 4,
+        "reclamación": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.035794183445190156,
+      "main_sections": [
+        "Seguro de Responsabilidad Civil",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.734223",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-ciclomotor-seguro-basico.pdf": {
+    "file_info": {
+      "filename": "ipid-ciclomotor-seguro-basico.pdf",
+      "doc_hash": "ac04c42db02c9e9a28fcfa8c22c6cb04",
+      "file_size_bytes": 328155,
+      "last_modified": "2025-03-22T16:36:59.988878",
+      "created_date": "2025-03-22T16:36:59.432223",
+      "path": "preparsed_data\\ipid-ciclomotor-seguro-basico.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 13:21:01 02012010123330drpc18 ALDEPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 403,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04466501240694789,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.765462",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-decesos-completo.pdf": {
+    "file_info": {
+      "filename": "ipid-decesos-completo.pdf",
+      "doc_hash": "5c27a641b4624e514c21679a3a6e3885",
+      "file_size_bytes": 295223,
+      "last_modified": "2025-03-22T16:39:18.670203",
+      "created_date": "2025-03-22T16:39:17.995126",
+      "path": "preparsed_data\\ipid-decesos-completo.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Decesos",
+      "num_pages": 2,
+      "word_count": 492,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "póliza",
+        "para",
+        "cobertura",
+        "seguro",
+        "días",
+        "fallecimiento",
+        "garantías",
+        "prima",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 9,
+        "prima": 6,
+        "cobertura": 8,
+        "asegurado": 6,
+        "aseguradora": 1
+      },
+      "insurance_terms_ratio": 0.06097560975609756,
+      "main_sections": [
+        "Seguro de Decesos",
+        "Los gastos como consecuencia de acontecimientos o",
+        "Garantía de decesos",
+        "Traslado completo",
+        "Asistencia en viajes"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.793134",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-decesos-esencial.pdf": {
+    "file_info": {
+      "filename": "ipid-decesos-esencial.pdf",
+      "doc_hash": "838e975679a9f06c93bbef89eb4e8abd",
+      "file_size_bytes": 295122,
+      "last_modified": "2025-03-22T16:39:16.768133",
+      "created_date": "2025-03-22T16:39:15.645090",
+      "path": "preparsed_data\\ipid-decesos-esencial.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Decesos",
+      "num_pages": 2,
+      "word_count": 478,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "póliza",
+        "para",
+        "cobertura",
+        "seguro",
+        "días",
+        "garantías",
+        "prima",
+        "decesos",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 9,
+        "prima": 6,
+        "cobertura": 8,
+        "asegurado": 5,
+        "aseguradora": 1
+      },
+      "insurance_terms_ratio": 0.060669456066945605,
+      "main_sections": [
+        "Seguro de Decesos",
+        "Los gastos como consecuencia de acontecimientos o",
+        "Garantía de decesos",
+        "Traslado completo",
+        "Asistencia en viajes"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.827246",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-decesos-extra.pdf": {
+    "file_info": {
+      "filename": "ipid-decesos-extra.pdf",
+      "doc_hash": "812daeb61a241e30fdb7857b46c1ac77",
+      "file_size_bytes": 296179,
+      "last_modified": "2025-03-22T16:39:20.921431",
+      "created_date": "2025-03-22T16:39:20.262113",
+      "path": "preparsed_data\\ipid-decesos-extra.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Decesos",
+      "num_pages": 2,
+      "word_count": 496,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "póliza",
+        "para",
+        "seguro",
+        "cobertura",
+        "días",
+        "fallecimiento",
+        "garantías",
+        "prima",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 9,
+        "prima": 6,
+        "cobertura": 8,
+        "asegurado": 6,
+        "aseguradora": 1
+      },
+      "insurance_terms_ratio": 0.06048387096774194,
+      "main_sections": [
+        "Seguro de Decesos",
+        "Los gastos como consecuencia de acontecimientos o",
+        "Garantía de decesos",
+        "Traslado completo",
+        "Asistencia en viajes"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.843344",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-decesos-repatriacion.pdf": {
+    "file_info": {
+      "filename": "ipid-decesos-repatriacion.pdf",
+      "doc_hash": "48d16c32d26f9fb305c8b9c8b2f0ee67",
+      "file_size_bytes": 286217,
+      "last_modified": "2025-03-22T16:39:25.150925",
+      "created_date": "2025-03-22T16:39:24.545893",
+      "path": "preparsed_data\\ipid-decesos-repatriacion.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Decesos",
+      "num_pages": 2,
+      "word_count": 478,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "póliza",
+        "para",
+        "cobertura",
+        "seguro",
+        "días",
+        "garantías",
+        "prima",
+        "decesos",
+        "asegurado"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 9,
+        "prima": 6,
+        "cobertura": 8,
+        "asegurado": 5,
+        "aseguradora": 1
+      },
+      "insurance_terms_ratio": 0.060669456066945605,
+      "main_sections": [
+        "Seguro de Decesos",
+        "Los gastos como consecuencia de acontecimientos o",
+        "Garantía de decesos",
+        "Traslado completo",
+        "Asistencia en viajes",
+        "Repatriación"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.877871",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-decesos-total.pdf": {
+    "file_info": {
+      "filename": "ipid-decesos-total.pdf",
+      "doc_hash": "d25dfc53d59baac0d5bf60e7302df2b6",
+      "file_size_bytes": 286380,
+      "last_modified": "2025-03-22T16:39:23.050655",
+      "created_date": "2025-03-22T16:39:22.361727",
+      "path": "preparsed_data\\ipid-decesos-total.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Decesos",
+      "num_pages": 2,
+      "word_count": 519,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "póliza",
+        "para",
+        "seguro",
+        "cobertura",
+        "garantías",
+        "asegurado",
+        "días",
+        "fallecimiento",
+        "prima"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 10,
+        "prima": 6,
+        "cobertura": 8,
+        "asegurado": 7,
+        "aseguradora": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.06358381502890173,
+      "main_sections": [
+        "Seguro de Decesos",
+        "Los gastos como consecuencia de acontecimientos o",
+        "Garantía de decesos",
+        "Traslado completo",
+        "Asistencia en viajes",
+        "Hospitalización"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.910388",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-extra.pdf": {
+    "file_info": {
+      "filename": "ipid-extra.pdf",
+      "doc_hash": "fb7085915a32a8a219adc5dcab06b79f",
+      "file_size_bytes": 283490,
+      "last_modified": "2025-03-22T16:38:59.910316",
+      "created_date": "2025-03-22T16:38:59.160429",
+      "path": "preparsed_data\\ipid-extra.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Accidentes",
+      "num_pages": 2,
+      "word_count": 451,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "asegurado",
+        "fallecimiento",
+        "seguro",
+        "accidentes",
+        "accidente",
+        "como",
+        "invalidez",
+        "sanitaria",
+        "cobertura",
+        "cualquier"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 9,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.050997782705099776,
+      "main_sections": [
+        "Seguro de Accidentes",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.926513",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-furgoneta-basico.pdf": {
+    "file_info": {
+      "filename": "ipid-furgoneta-basico.pdf",
+      "doc_hash": "fcc8498b303fc3ac52769b16a16c6f74",
+      "file_size_bytes": 294468,
+      "last_modified": "2025-03-22T16:37:02.159944",
+      "created_date": "2025-03-22T16:37:01.599000",
+      "path": "preparsed_data\\ipid-furgoneta-basico.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 479,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "euros",
+        "seguro",
+        "daños",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "contrato",
+        "póliza",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 3,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04175365344467641,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.968506",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-furgoneta-perdida-total.pdf": {
+    "file_info": {
+      "filename": "ipid-furgoneta-perdida-total.pdf",
+      "doc_hash": "0fda8e803238c14a1ebe9f747e114ebd",
+      "file_size_bytes": 294773,
+      "last_modified": "2025-03-22T16:37:06.390968",
+      "created_date": "2025-03-22T16:37:05.831608",
+      "path": "preparsed_data\\ipid-furgoneta-perdida-total.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 494,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "euros",
+        "daños",
+        "seguro",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "contrato",
+        "póliza",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 3,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04048582995951417,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:42.993857",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-furgoneta-robo-incendio.pdf": {
+    "file_info": {
+      "filename": "ipid-furgoneta-robo-incendio.pdf",
+      "doc_hash": "70a4b20f5ee2ae0c6c2a233fb585e5e2",
+      "file_size_bytes": 294627,
+      "last_modified": "2025-03-22T16:37:04.308124",
+      "created_date": "2025-03-22T16:37:03.748816",
+      "path": "preparsed_data\\ipid-furgoneta-robo-incendio.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 494,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "euros",
+        "daños",
+        "seguro",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "contrato",
+        "robo",
+        "póliza"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 3,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04048582995951417,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.024649",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-furgoneta-td-sin-franquicia.pdf": {
+    "file_info": {
+      "filename": "ipid-furgoneta-td-sin-franquicia.pdf",
+      "doc_hash": "19e785e18eefda9b4d8d80c56ec1f347",
+      "file_size_bytes": 294877,
+      "last_modified": "2025-03-22T16:37:10.830467",
+      "created_date": "2025-03-22T16:37:10.233223",
+      "path": "preparsed_data\\ipid-furgoneta-td-sin-franquicia.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 522,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "daños",
+        "euros",
+        "seguro",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "contrato",
+        "póliza",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 3,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1,
+        "franquicia": 3
+      },
+      "insurance_terms_ratio": 0.044061302681992334,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.049227",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-moto-perdida-total.pdf": {
+    "file_info": {
+      "filename": "ipid-moto-perdida-total.pdf",
+      "doc_hash": "719ee4b4b718f2ad4afb5784fb51d758",
+      "file_size_bytes": 332157,
+      "last_modified": "2025-03-22T16:36:15.345462",
+      "created_date": "2025-03-22T16:36:14.795307",
+      "path": "preparsed_data\\ipid-moto-perdida-total.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 12:40:42 02012010123430drpc18 ALDEPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 431,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.04640371229698376,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.076714",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-moto-robo.pdf": {
+    "file_info": {
+      "filename": "ipid-moto-robo.pdf",
+      "doc_hash": "d6abefccf32d4f4fed3518e0d74d1876",
+      "file_size_bytes": 332139,
+      "last_modified": "2025-03-22T16:36:12.603196",
+      "created_date": "2025-03-22T16:36:12.130177",
+      "path": "preparsed_data\\ipid-moto-robo.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 12:15:54 02012010123430drpc18 ARINPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 430,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "robo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.046511627906976744,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.102736",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-moto-seguro-basico.pdf": {
+    "file_info": {
+      "filename": "ipid-moto-seguro-basico.pdf",
+      "doc_hash": "d006e619510f916d64f90da4bba6d913",
+      "file_size_bytes": 332138,
+      "last_modified": "2025-03-22T16:34:28.084958",
+      "created_date": "2025-03-22T16:34:27.525154",
+      "path": "preparsed_data\\ipid-moto-seguro-basico.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 12:09:31 02012010123430drpc18 ARINPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 429,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.046620046620046623,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.127023",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-moto-seguro-franquicia.pdf": {
+    "file_info": {
+      "filename": "ipid-moto-seguro-franquicia.pdf",
+      "doc_hash": "4dbfc927bb0cd9a35f5b050db6b9872b",
+      "file_size_bytes": 332165,
+      "last_modified": "2025-03-22T16:36:17.925813",
+      "created_date": "2025-03-22T16:36:17.375658",
+      "path": "preparsed_data\\ipid-moto-seguro-franquicia.pdf"
+    },
+    "document_info": {
+      "title": "01-10-2018 10:34:37 02012010123430drpc18 ALDEPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 431,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1,
+        "franquicia": 1
+      },
+      "insurance_terms_ratio": 0.048723897911832945,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.153127",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-moto-todo-riesgo-sin-franquicia.pdf": {
+    "file_info": {
+      "filename": "ipid-moto-todo-riesgo-sin-franquicia.pdf",
+      "doc_hash": "4bab6a1b2f1950b6b64f5dae998a7343",
+      "file_size_bytes": 332154,
+      "last_modified": "2025-03-22T16:36:20.350837",
+      "created_date": "2025-03-22T16:36:19.820686",
+      "path": "preparsed_data\\ipid-moto-todo-riesgo-sin-franquicia.pdf"
+    },
+    "document_info": {
+      "title": "28-09-2018 12:50:47 02012010123430drpc18 ALDEPRO0 9510278",
+      "num_pages": 2,
+      "word_count": 430,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "daños",
+        "seguro",
+        "vehículo",
+        "responsabilidad",
+        "euros",
+        "póliza",
+        "contrato",
+        "seguros",
+        "robo",
+        "civil"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 2,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.046511627906976744,
+      "main_sections": [
+        "Seguro de Automóviles"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.177086",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-optimo.pdf": {
+    "file_info": {
+      "filename": "ipid-optimo.pdf",
+      "doc_hash": "222992c54392ddf5913a259592c7cd39",
+      "file_size_bytes": 281698,
+      "last_modified": "2025-03-22T16:38:57.554135",
+      "created_date": "2025-03-22T16:38:56.945055",
+      "path": "preparsed_data\\ipid-optimo.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Accidentes",
+      "num_pages": 2,
+      "word_count": 444,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "accidente",
+        "asegurado",
+        "fallecimiento",
+        "invalidez",
+        "seguro",
+        "accidentes",
+        "como",
+        "permanente",
+        "cobertura",
+        "cualquier"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 5,
+        "asegurado": 9,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "renovación": 1
+      },
+      "insurance_terms_ratio": 0.0518018018018018,
+      "main_sections": [
+        "Seguro de Accidentes",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.203322",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-rc-perros.pdf": {
+    "file_info": {
+      "filename": "ipid-rc-perros.pdf",
+      "doc_hash": "24368ea7c5f69045d398002731ec85f4",
+      "file_size_bytes": 371576,
+      "last_modified": "2025-03-22T16:38:29.935143",
+      "created_date": "2025-03-22T16:38:29.263145",
+      "path": "preparsed_data\\ipid-rc-perros.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 2,
+      "word_count": 454,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "seguro",
+        "cobertura",
+        "tomador",
+        "responsabilidad",
+        "civil",
+        "siniestro",
+        "defensa",
+        "daños",
+        "póliza"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 6,
+        "asegurado": 3,
+        "aseguradora": 1,
+        "siniestro": 5,
+        "reclamación": 3
+      },
+      "insurance_terms_ratio": 0.05286343612334802,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Si tienes contratada la cobertura de Cuadro",
+        "Responsabilidad civil del propietario de la",
+        "Allianz Mascotas",
+        "Unido"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.235732",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid-tr-con-franquicia.pdf": {
+    "file_info": {
+      "filename": "ipid-tr-con-franquicia.pdf",
+      "doc_hash": "5dd7cde9a2032f34b2c3bb37f098e0fc",
+      "file_size_bytes": 294920,
+      "last_modified": "2025-03-22T16:37:08.553629",
+      "created_date": "2025-03-22T16:37:07.981789",
+      "path": "preparsed_data\\ipid-tr-con-franquicia.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Automóviles",
+      "num_pages": 2,
+      "word_count": 525,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "daños",
+        "euros",
+        "hasta",
+        "seguro",
+        "responsabilidad",
+        "civil",
+        "contrato",
+        "póliza",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "indemnización": 3,
+        "reclamación": 2,
+        "vigencia": 1,
+        "renovación": 1,
+        "antigüedad": 1,
+        "franquicia": 4
+      },
+      "insurance_terms_ratio": 0.047619047619047616,
+      "main_sections": [
+        "Seguro de Automóviles",
+        "Sumas Aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.260134",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid_completo_prop_hab.pdf": {
+    "file_info": {
+      "filename": "ipid_completo_prop_hab.pdf",
+      "doc_hash": "4b3b09f04299613fb405abf83eea38d2",
+      "file_size_bytes": 1040462,
+      "last_modified": "2025-03-22T16:36:55.601419",
+      "created_date": "2025-03-22T16:36:55.048773",
+      "path": "preparsed_data\\ipid_completo_prop_hab.pdf"
+    },
+    "document_info": {
+      "title": "<image: DeviceRGB, width: 639, height: 159, bpc: 8>",
+      "num_pages": 2,
+      "word_count": 36,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "image",
+        "devicergb",
+        "width",
+        "height"
+      ],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0.0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:43.870571",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid_estandar_prop_hab.pdf": {
+    "file_info": {
+      "filename": "ipid_estandar_prop_hab.pdf",
+      "doc_hash": "58f17b1c07aa67317a279a98435a392f",
+      "file_size_bytes": 848057,
+      "last_modified": "2025-03-22T16:36:53.145574",
+      "created_date": "2025-03-22T16:36:52.631978",
+      "path": "preparsed_data\\ipid_estandar_prop_hab.pdf"
+    },
+    "document_info": {
+      "title": "<image: DeviceRGB, width: 639, height: 159, bpc: 8>",
+      "num_pages": 2,
+      "word_count": 36,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "image",
+        "devicergb",
+        "width",
+        "height"
+      ],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0.0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:44.349410",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "ipid_superior_prop_hab.pdf": {
+    "file_info": {
+      "filename": "ipid_superior_prop_hab.pdf",
+      "doc_hash": "28022c92cd2c7442bc439030f6598347",
+      "file_size_bytes": 1073981,
+      "last_modified": "2025-03-22T16:36:57.734644",
+      "created_date": "2025-03-22T16:36:57.198822",
+      "path": "preparsed_data\\ipid_superior_prop_hab.pdf"
+    },
+    "document_info": {
+      "title": "<image: DeviceRGB, width: 639, height: 159, bpc: 8>",
+      "num_pages": 2,
+      "word_count": 36,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "image",
+        "devicergb",
+        "width",
+        "height"
+      ],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0.0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:44.937249",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "Moto (1234) Basico.pdf": {
+    "file_info": {
+      "filename": "Moto (1234) Basico.pdf",
+      "doc_hash": "629429dd050daf23379b8e9a8a6e0aba",
+      "file_size_bytes": 283221,
+      "last_modified": "2025-03-13T21:13:15.898105",
+      "created_date": "2025-03-13T21:13:15.898105",
+      "path": "preparsed_data\\Moto (1234) Basico.pdf"
+    },
+    "document_info": {
+      "title": "www.allianz.es",
+      "num_pages": 36,
+      "word_count": 6107,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "asegurado",
+        "para",
+        "póliza",
+        "tomador",
+        "xxxxxxxxx",
+        "como",
+        "cuando",
+        "allianz",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia",
+        "cláusulas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 79,
+        "prima": 21,
+        "cobertura": 31,
+        "exclusiones": 2,
+        "beneficiario": 8,
+        "asegurado": 110,
+        "aseguradora": 7,
+        "siniestro": 32,
+        "indemnización": 20,
+        "reclamación": 15,
+        "vigencia": 9,
+        "renovación": 2,
+        "antigüedad": 2,
+        "franquicia": 10,
+        "cláusulas": 1
+      },
+      "insurance_terms_ratio": 0.05714753561486818,
+      "main_sections": [
+        "Auto\nCondiciones de su\nContrato de Seguro",
+        "Allianz Seguros\nAllianz Moto\nxxxxxxxxx",
+        "Contigo de la A a la Z",
+        "Tomador de la Póliza\nxxxxxxxxx",
+        "Atentamente",
+        "CONDICIONES PARTICULARES Y GENERALES",
+        "SUMARIO\nLEGISLACIÓN APLICABLE",
+        "Póliza  xxxxxxxxx",
+        "Original para el Tomador del Seguro",
+        "CONDICIONES PARTICULARES Y GENERALES\nCapítulo I"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:45.220919",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "Moto (1234) PTotal.pdf": {
+    "file_info": {
+      "filename": "Moto (1234) PTotal.pdf",
+      "doc_hash": "76d4916d68a509e9d8e74b0247fbb0e6",
+      "file_size_bytes": 270118,
+      "last_modified": "2025-03-13T21:13:15.898105",
+      "created_date": "2025-03-13T21:13:15.898105",
+      "path": "preparsed_data\\Moto (1234) PTotal.pdf"
+    },
+    "document_info": {
+      "title": "www.allianz.es",
+      "num_pages": 36,
+      "word_count": 6585,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "asegurado",
+        "para",
+        "póliza",
+        "tomador",
+        "como",
+        "cuando",
+        "daños",
+        "allianz",
+        "xxxxxxxxx"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia",
+        "cláusulas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 80,
+        "prima": 22,
+        "cobertura": 33,
+        "exclusiones": 2,
+        "beneficiario": 8,
+        "asegurado": 116,
+        "aseguradora": 7,
+        "siniestro": 35,
+        "indemnización": 24,
+        "reclamación": 15,
+        "vigencia": 9,
+        "renovación": 2,
+        "antigüedad": 2,
+        "franquicia": 11,
+        "cláusulas": 2
+      },
+      "insurance_terms_ratio": 0.05588458618071374,
+      "main_sections": [
+        "Auto\nCondiciones de su \nContrato de Seguro",
+        "Allianz Seguros\nAllianz Moto\nxxxxxxxxx",
+        "Contigo de la A a la Z",
+        "Tomador de la Póliza\nxxxxxxxxx",
+        "Atentamente",
+        "CONDICIONES PARTICULARES Y GENERALES",
+        "SUMARIO\nLEGISLACIÓN APLICABLE",
+        "Póliza  xxxxxxxxx",
+        "Original para el Tomador del Seguro",
+        "CONDICIONES PARTICULARES Y GENERALES\nCapítulo I"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:45.564340",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "Moto (1234) Robo.pdf": {
+    "file_info": {
+      "filename": "Moto (1234) Robo.pdf",
+      "doc_hash": "73ebbddaf5958629c53ad674768d528b",
+      "file_size_bytes": 261388,
+      "last_modified": "2025-03-13T21:13:15.898105",
+      "created_date": "2025-03-13T21:13:15.898105",
+      "path": "preparsed_data\\Moto (1234) Robo.pdf"
+    },
+    "document_info": {
+      "title": "www.allianz.es",
+      "num_pages": 36,
+      "word_count": 6379,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "asegurado",
+        "para",
+        "póliza",
+        "tomador",
+        "como",
+        "cuando",
+        "allianz",
+        "xxxxxxxxx",
+        "daños"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia",
+        "cláusulas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 80,
+        "prima": 22,
+        "cobertura": 31,
+        "exclusiones": 2,
+        "beneficiario": 8,
+        "asegurado": 115,
+        "aseguradora": 7,
+        "siniestro": 33,
+        "indemnización": 23,
+        "reclamación": 15,
+        "vigencia": 9,
+        "renovación": 2,
+        "antigüedad": 2,
+        "franquicia": 11,
+        "cláusulas": 2
+      },
+      "insurance_terms_ratio": 0.05674870669383916,
+      "main_sections": [
+        "Auto\nCondiciones de su\nContrato de Seguro",
+        "Allianz Seguros\nAllianz Moto\nxxxxxxxxx",
+        "Contigo de la A a la Z",
+        "Tomador de la Póliza\nxxxxxxxxx",
+        "Atentamente",
+        "CONDICIONES PARTICULARES Y GENERALES",
+        "SUMARIO\nLEGISLACIÓN APLICABLE",
+        "Póliza  xxxxxxxxx",
+        "Original para el Tomador del Seguro",
+        "CONDICIONES PARTICULARES Y GENERALES\nCapítulo I"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:45.885540",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "Moto (1234) TR con franq.pdf": {
+    "file_info": {
+      "filename": "Moto (1234) TR con franq.pdf",
+      "doc_hash": "c848c63acc47c1cc91003773dca51b4c",
+      "file_size_bytes": 269405,
+      "last_modified": "2025-03-13T21:13:15.913752",
+      "created_date": "2025-03-13T21:13:15.913752",
+      "path": "preparsed_data\\Moto (1234) TR con franq.pdf"
+    },
+    "document_info": {
+      "title": "www.allianz.es",
+      "num_pages": 36,
+      "word_count": 6640,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "asegurado",
+        "para",
+        "póliza",
+        "tomador",
+        "como",
+        "xxxxxxxxx",
+        "cuando",
+        "daños",
+        "allianz"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia",
+        "cláusulas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 81,
+        "prima": 22,
+        "cobertura": 32,
+        "exclusiones": 2,
+        "beneficiario": 8,
+        "asegurado": 116,
+        "aseguradora": 7,
+        "siniestro": 35,
+        "indemnización": 24,
+        "reclamación": 15,
+        "vigencia": 9,
+        "renovación": 2,
+        "antigüedad": 2,
+        "franquicia": 16,
+        "cláusulas": 2
+      },
+      "insurance_terms_ratio": 0.05617469879518072,
+      "main_sections": [
+        "Auto\nCondiciones de su\nContrato de Seguro",
+        "Allianz Seguros\nAllianz Moto\nxxxxxxxxx",
+        "Contigo de la A a la Z",
+        "Tomador de la Póliza\nxxxxxxxxx",
+        "Atentamente",
+        "CONDICIONES PARTICULARES Y GENERALES",
+        "SUMARIO\nLEGISLACIÓN APLICABLE",
+        "Póliza  xxxxxxxxx",
+        "Original para el Tomador del Seguro",
+        "CONDICIONES PARTICULARES Y GENERALES\nCapítulo I"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:46.203298",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "Moto (1234) TR sin franq.pdf": {
+    "file_info": {
+      "filename": "Moto (1234) TR sin franq.pdf",
+      "doc_hash": "baf25e76edc2dba5e514354821481a3c",
+      "file_size_bytes": 376560,
+      "last_modified": "2025-03-13T21:13:15.913752",
+      "created_date": "2025-03-13T21:13:15.913752",
+      "path": "preparsed_data\\Moto (1234) TR sin franq.pdf"
+    },
+    "document_info": {
+      "title": "www.allianz.es",
+      "num_pages": 36,
+      "word_count": 6565,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "seguro",
+        "asegurado",
+        "para",
+        "póliza",
+        "tomador",
+        "como",
+        "cuando",
+        "allianz",
+        "daños",
+        "xxxxxxxxx"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "franquicia",
+        "cláusulas"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 80,
+        "prima": 21,
+        "cobertura": 32,
+        "exclusiones": 2,
+        "beneficiario": 8,
+        "asegurado": 114,
+        "aseguradora": 7,
+        "siniestro": 35,
+        "indemnización": 24,
+        "reclamación": 15,
+        "vigencia": 9,
+        "renovación": 2,
+        "antigüedad": 2,
+        "franquicia": 11,
+        "cláusulas": 2
+      },
+      "insurance_terms_ratio": 0.055445544554455446,
+      "main_sections": [
+        "Auto\nCondiciones de su\nContrato de Seguro",
+        "Allianz Seguros\nAllianz Moto\nxxxxxxxxx",
+        "Contigo de la A a la Z",
+        "Tomador de la Póliza\nxxxxxxxxx",
+        "Atentamente",
+        "CONDICIONES PARTICULARES Y GENERALES",
+        "SUMARIO\nLEGISLACIÓN APLICABLE",
+        "Póliza  xxxxxxxxx",
+        "Original para el Tomador del Seguro",
+        "CONDICIONES PARTICULARES Y GENERALES\nCapítulo I"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:46.521735",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "nip-rc-perros.pdf": {
+    "file_info": {
+      "filename": "nip-rc-perros.pdf",
+      "doc_hash": "9088599b1f2ad47678271b274b8d4b80",
+      "file_size_bytes": 67527,
+      "last_modified": "2025-03-22T16:38:32.387328",
+      "created_date": "2025-03-22T16:38:31.576913",
+      "path": "preparsed_data\\nip-rc-perros.pdf"
+    },
+    "document_info": {
+      "title": "nip-rc-perros.pdf",
+      "num_pages": 2,
+      "word_count": 407,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "allianz",
+        "seguros",
+        "información",
+        "cliente",
+        "compañía",
+        "para",
+        "sobre",
+        "este",
+        "reclamación",
+        "reaseguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "asegurado",
+        "reclamación",
+        "vigencia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 1,
+        "asegurado": 2,
+        "reclamación": 5,
+        "vigencia": 1
+      },
+      "insurance_terms_ratio": 0.022113022113022112,
+      "main_sections": [
+        "INFORMACIÓN PARA EL CLIENTE",
+        "Nota Informativa Previa  \nAllianz Mascotas",
+        "Asegurador",
+        "Período para el \nque es válida esta \ninformación",
+        "Lengua o lenguas \nen que se presenta",
+        "Legislación \naplicable y \njurisdicción a la que",
+        "Instancias de \nreclamación",
+        "Allianz Seguros",
+        "0324\nAsegurador",
+        "Información básica sobre protección de datos"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:46.560163",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "proteccion-autonomo-plus-basico.pdf": {
+    "file_info": {
+      "filename": "proteccion-autonomo-plus-basico.pdf",
+      "doc_hash": "2bfeb4e34a279dcce6890e7441135e7d",
+      "file_size_bytes": 3567685,
+      "last_modified": "2025-03-22T16:39:27.434175",
+      "created_date": "2025-03-22T16:39:26.828722",
+      "path": "preparsed_data\\proteccion-autonomo-plus-basico.pdf"
+    },
+    "document_info": {
+      "title": "proteccion-autonomo-plus-basico.pdf",
+      "num_pages": 2,
+      "word_count": 0,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:47.195688",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "proteccion-autonomo-plus-integral.pdf": {
+    "file_info": {
+      "filename": "proteccion-autonomo-plus-integral.pdf",
+      "doc_hash": "a71c7ef8532267bb9ba3b33806534ab7",
+      "file_size_bytes": 3716625,
+      "last_modified": "2025-03-22T16:39:32.963648",
+      "created_date": "2025-03-22T16:39:31.629563",
+      "path": "preparsed_data\\proteccion-autonomo-plus-integral.pdf"
+    },
+    "document_info": {
+      "title": "proteccion-autonomo-plus-integral.pdf",
+      "num_pages": 2,
+      "word_count": 0,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:47.852936",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "proteccion-autonomo-plus-optimo.pdf": {
+    "file_info": {
+      "filename": "proteccion-autonomo-plus-optimo.pdf",
+      "doc_hash": "75b58441cc554d60fcac4bf01468b412",
+      "file_size_bytes": 3567026,
+      "last_modified": "2025-03-22T16:39:29.608967",
+      "created_date": "2025-03-22T16:39:29.062288",
+      "path": "preparsed_data\\proteccion-autonomo-plus-optimo.pdf"
+    },
+    "document_info": {
+      "title": "proteccion-autonomo-plus-optimo.pdf",
+      "num_pages": 2,
+      "word_count": 0,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:48.480071",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "proteccion-autonomo-plus-premium.pdf": {
+    "file_info": {
+      "filename": "proteccion-autonomo-plus-premium.pdf",
+      "doc_hash": "c5bf1f26c31bb899f32c196b6da07bc5",
+      "file_size_bytes": 1343185,
+      "last_modified": "2025-03-22T16:39:38.883394",
+      "created_date": "2025-03-22T16:39:37.662407",
+      "path": "preparsed_data\\proteccion-autonomo-plus-premium.pdf"
+    },
+    "document_info": {
+      "title": "<image: DeviceRGB, width: 1275, height: 317, bpc: 8>",
+      "num_pages": 2,
+      "word_count": 36,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "image",
+        "devicergb",
+        "width",
+        "height"
+      ],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0.0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.092513",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "proteccion-autonomo-plus-superior.pdf": {
+    "file_info": {
+      "filename": "proteccion-autonomo-plus-superior.pdf",
+      "doc_hash": "edfaad09eca6ae33324948a3935e2691",
+      "file_size_bytes": 3717094,
+      "last_modified": "2025-03-22T16:39:35.568576",
+      "created_date": "2025-03-22T16:39:34.745260",
+      "path": "preparsed_data\\proteccion-autonomo-plus-superior.pdf"
+    },
+    "document_info": {
+      "title": "proteccion-autonomo-plus-superior.pdf",
+      "num_pages": 2,
+      "word_count": 0,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0,
+      "main_sections": []
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.751053",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-coche-folleto-allianz.pdf": {
+    "file_info": {
+      "filename": "seguro-coche-folleto-allianz.pdf",
+      "doc_hash": "489cabaf3cd77b0185d7acfb325cb4cb",
+      "file_size_bytes": 456732,
+      "last_modified": "2025-03-22T16:30:38.628918",
+      "created_date": "2025-03-22T16:30:38.142587",
+      "path": "preparsed_data\\seguro-coche-folleto-allianz.pdf"
+    },
+    "document_info": {
+      "title": "seguro-coche-folleto-allianz.pdf",
+      "num_pages": 6,
+      "word_count": 766,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "allianz",
+        "daños",
+        "para",
+        "reparación",
+        "caso",
+        "modalidad",
+        "robo",
+        "todo",
+        "franquicia"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "asegurado",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 1,
+        "asegurado": 3,
+        "siniestro": 3,
+        "indemnización": 4,
+        "reclamación": 2,
+        "vigencia": 2,
+        "franquicia": 9
+      },
+      "insurance_terms_ratio": 0.031331592689295036,
+      "main_sections": [
+        "Tu mediador en Allianz Seguros",
+        "Atención al Cliente",
+        "1\nTu mediador en Allianz Seguros",
+        "A continuación te mostramos los distintos",
+        "Modalidades\nBásico\nBásico",
+        "TR con  \nfranquicia \nTodo  \nriesgo",
+        "Responsabilidad Civil \nObligatoria",
+        "Responsabilidad Civil \nComplementaria",
+        "Indemnización de daños",
+        "Reclamación de daños"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.849968",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-comunidades-ipid.pdf": {
+    "file_info": {
+      "filename": "seguro-comunidades-ipid.pdf",
+      "doc_hash": "007b38f60dafdabb4f511b45522e2dd8",
+      "file_size_bytes": 288913,
+      "last_modified": "2025-03-22T16:38:27.496944",
+      "created_date": "2025-03-22T16:38:26.812020",
+      "path": "preparsed_data\\seguro-comunidades-ipid.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Multirriesgo",
+      "num_pages": 2,
+      "word_count": 510,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "responsabilidad",
+        "civil",
+        "gastos",
+        "contrato",
+        "como",
+        "seguro",
+        "daños",
+        "máximo",
+        "póliza",
+        "seguros"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "reclamación",
+        "renovación",
+        "antigüedad",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 2,
+        "aseguradora": 1,
+        "siniestro": 4,
+        "reclamación": 1,
+        "renovación": 1,
+        "antigüedad": 1,
+        "franquicia": 3
+      },
+      "insurance_terms_ratio": 0.045098039215686274,
+      "main_sections": [
+        "Seguro de Multirriesgo",
+        "Sumas aseguradas"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.876681",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-dental-ipid.pdf": {
+    "file_info": {
+      "filename": "seguro-dental-ipid.pdf",
+      "doc_hash": "67c891072bf006740715324f71605ef0",
+      "file_size_bytes": 288730,
+      "last_modified": "2025-03-22T16:38:46.299158",
+      "created_date": "2025-03-22T16:38:45.695063",
+      "path": "preparsed_data\\seguro-dental-ipid.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Salud",
+      "num_pages": 2,
+      "word_count": 355,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "contrato",
+        "seguro",
+        "póliza",
+        "tomador",
+        "cobertura",
+        "debe",
+        "pago",
+        "allianz",
+        "prótesis",
+        "para"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 6,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 3,
+        "aseguradora": 1,
+        "siniestro": 1,
+        "franquicia": 1
+      },
+      "insurance_terms_ratio": 0.059154929577464786,
+      "main_sections": [
+        "Seguro de Salud"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.893753",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-medico-asistencia-hospitalaria.pdf": {
+    "file_info": {
+      "filename": "seguro-medico-asistencia-hospitalaria.pdf",
+      "doc_hash": "9f88ab1cb81c5c42c48ae4e3cc4fe525",
+      "file_size_bytes": 344746,
+      "last_modified": "2025-03-22T16:38:39.373209",
+      "created_date": "2025-03-22T16:38:38.776631",
+      "path": "preparsed_data\\seguro-medico-asistencia-hospitalaria.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 581,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "meses",
+        "contrato",
+        "seguro",
+        "tomador",
+        "salud",
+        "póliza",
+        "pago",
+        "allianz",
+        "asegurado",
+        "asegurador"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 7,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 6,
+        "aseguradora": 1,
+        "siniestro": 1
+      },
+      "insurance_terms_ratio": 0.04130808950086059,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Para detalle completo ver Nota Informativa",
+        "Salud Asistencia Hospitalaria",
+        "Allianz Salud",
+        "Embarazo",
+        "Parto",
+        "Diagnostico por la imagen",
+        "Pruebas Diagnósticas y",
+        "Tratamientos Complementarios",
+        "Litotricia"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.943443",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-medico-asistencia-primaria-IPID.pdf": {
+    "file_info": {
+      "filename": "seguro-medico-asistencia-primaria-IPID.pdf",
+      "doc_hash": "e3474692ce27173dc914e6919c81d70a",
+      "file_size_bytes": 347414,
+      "last_modified": "2025-03-22T16:38:37.123000",
+      "created_date": "2025-03-22T16:38:36.512064",
+      "path": "preparsed_data\\seguro-medico-asistencia-primaria-IPID.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 607,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "meses",
+        "contrato",
+        "seguro",
+        "tomador",
+        "salud",
+        "póliza",
+        "pago",
+        "asegurado",
+        "asegurador",
+        "asistencia"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 7,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 6,
+        "aseguradora": 1,
+        "siniestro": 1
+      },
+      "insurance_terms_ratio": 0.039538714991762765,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Para detalle completo ver Nota Informativa",
+        "Salud Asistencia Sanitaria Completo",
+        "Allianz Salud",
+        "Embarazo",
+        "Parto",
+        "Diagnostico por la imagen",
+        "Pruebas Diagnósticas y",
+        "Tratamientos Complementarios",
+        "Litotricia"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:49.991688",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-medico-cuadro-medico-sin-asistencia-primaria.pdf": {
+    "file_info": {
+      "filename": "seguro-medico-cuadro-medico-sin-asistencia-primaria.pdf",
+      "doc_hash": "5a17ea983a9e332fb30158f0eb6b42e8",
+      "file_size_bytes": 347864,
+      "last_modified": "2025-03-22T16:38:41.845402",
+      "created_date": "2025-03-22T16:38:41.211462",
+      "path": "preparsed_data\\seguro-medico-cuadro-medico-sin-asistencia-primaria.pdf"
+    },
+    "document_info": {
+      "title": "IQUO MA NON NONES DOLEST, ",
+      "num_pages": 3,
+      "word_count": 603,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "meses",
+        "contrato",
+        "seguro",
+        "tomador",
+        "salud",
+        "póliza",
+        "pago",
+        "asistencia",
+        "asegurado",
+        "asegurador"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 7,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 6,
+        "aseguradora": 1,
+        "siniestro": 1
+      },
+      "insurance_terms_ratio": 0.03980099502487562,
+      "main_sections": [
+        "SOLORE NISSINTO DITAM",
+        "Para detalle completo ver Nota Informativa",
+        "Salud Completo Sin Asistencia Primaria",
+        "Allianz Salud",
+        "Embarazo",
+        "Parto",
+        "Diagnostico por la imagen",
+        "Pruebas Diagnósticas y",
+        "Tratamientos Complementarios",
+        "Litotricia"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.026928",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-medico-reembolso-IPID.pdf": {
+    "file_info": {
+      "filename": "seguro-medico-reembolso-IPID.pdf",
+      "doc_hash": "fbd91bfc21be7980de5e7dff95ea8540",
+      "file_size_bytes": 290931,
+      "last_modified": "2025-03-22T16:38:44.164964",
+      "created_date": "2025-03-22T16:38:43.560889",
+      "path": "preparsed_data\\seguro-medico-reembolso-IPID.pdf"
+    },
+    "document_info": {
+      "title": "Seguro de Salud",
+      "num_pages": 3,
+      "word_count": 580,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "meses",
+        "contrato",
+        "seguro",
+        "tomador",
+        "pago",
+        "asegurado",
+        "asegurador",
+        "para",
+        "tratamiento",
+        "cualquier"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 4,
+        "prima": 3,
+        "cobertura": 5,
+        "beneficiario": 1,
+        "asegurado": 7,
+        "aseguradora": 1,
+        "siniestro": 1
+      },
+      "insurance_terms_ratio": 0.03793103448275862,
+      "main_sections": [
+        "Seguro de Salud",
+        "Seguimiento Embarazo",
+        "Parto",
+        "Diagnostico por la imagen",
+        "Pruebas Diagnósticas y\nTratamientos Complementarios",
+        "Litotricia",
+        "Rehabilitación",
+        "Clínica del Dolor",
+        "Cirugía sin sangre"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.064321",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "seguro-vida-pdf.pdf": {
+    "file_info": {
+      "filename": "seguro-vida-pdf.pdf",
+      "doc_hash": "021539a15ec9f1a6c6b4746e5e986619",
+      "file_size_bytes": 413769,
+      "last_modified": "2025-03-22T16:38:53.097172",
+      "created_date": "2025-03-22T16:38:52.528016",
+      "path": "preparsed_data\\seguro-vida-pdf.pdf"
+    },
+    "document_info": {
+      "title": "seguro-vida-pdf.pdf",
+      "num_pages": 5,
+      "word_count": 370,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "allianz",
+        "vida",
+        "para",
+        "coberturas",
+        "seguro",
+        "seguros",
+        "riesgo",
+        "modalidad",
+        "accidente",
+        "familia"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "asegurado"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 1,
+        "asegurado": 1
+      },
+      "insurance_terms_ratio": 0.005405405405405406,
+      "main_sections": [
+        "ALLIANZ VIDA",
+        "Un seguro de vida \npara las personas \nque te rodean",
+        "1\nUn seguro de vida \npara las personas \nque te rodean",
+        "ALLIANZ VIDA",
+        "Allianz Vida",
+        "Para Allianz Seguros lo más importante son las",
+        "El seguro Allianz Vida facilitará a tu familia",
+        "Es un producto para todas aquellas personas",
+        "2\nALLIANZ VIDA",
+        "ALLIANZ VIDA"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.166429",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "tarifas-allianz-dental.pdf": {
+    "file_info": {
+      "filename": "tarifas-allianz-dental.pdf",
+      "doc_hash": "1d80b20a499724614f3daaaec6a0e2c5",
+      "file_size_bytes": 128029,
+      "last_modified": "2025-03-22T16:38:50.690984",
+      "created_date": "2025-03-22T16:38:50.078793",
+      "path": "preparsed_data\\tarifas-allianz-dental.pdf"
+    },
+    "document_info": {
+      "title": "495  0125    1 / 6",
+      "num_pages": 6,
+      "word_count": 1770,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "prótesis",
+        "pieza",
+        "tratamiento",
+        "estudio",
+        "incluye",
+        "para",
+        "cada",
+        "piezas",
+        "unidad",
+        "corona"
+      ],
+      "insurance_terms_present": [
+        "renovación"
+      ],
+      "insurance_terms_frequencies": {
+        "renovación": 3
+      },
+      "insurance_terms_ratio": 0.001694915254237288,
+      "main_sections": [
+        "Allianz Salud Dental\nAllianz Salud Dental",
+        "Primeras Visitas",
+        "Primera visita y entrega de presupuesto",
+        "Primera visita con especialista",
+        "Visita de revisión",
+        "Visita de urgencia",
+        "Odontología Preventiva",
+        "Educación bucodental",
+        "Fluorizaciones",
+        "Selladores oclusales"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.266616",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "tarifas-allianz-salud-individual.pdf": {
+    "file_info": {
+      "filename": "tarifas-allianz-salud-individual.pdf",
+      "doc_hash": "5bc3abbbafb6b7a08fefa57e6d7feeb4",
+      "file_size_bytes": 57169,
+      "last_modified": "2025-03-22T16:38:48.518793",
+      "created_date": "2025-03-22T16:38:47.928336",
+      "path": "preparsed_data\\tarifas-allianz-salud-individual.pdf"
+    },
+    "document_info": {
+      "title": "tarifas-allianz-salud-individual.pdf",
+      "num_pages": 1,
+      "word_count": 81,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "años",
+        "allianz",
+        "reembolso",
+        "tarifas",
+        "salud",
+        "individual",
+        "copago",
+        "cuadro",
+        "médico",
+        "asistencia"
+      ],
+      "insurance_terms_present": [
+        "asegurado"
+      ],
+      "insurance_terms_frequencies": {
+        "asegurado": 1
+      },
+      "insurance_terms_ratio": 0.012345679012345678,
+      "main_sections": [
+        "Allianz salud individual\nAllianz salud individual",
+        "Modalidad\nEdad Asegurado\nSin Copago\nCon Copago"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.287251",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "tarifas-mascotas.pdf": {
+    "file_info": {
+      "filename": "tarifas-mascotas.pdf",
+      "doc_hash": "1ba62968eef46bb824782563fba24bcb",
+      "file_size_bytes": 51796,
+      "last_modified": "2025-03-22T16:38:34.809836",
+      "created_date": "2025-03-22T16:38:34.211594",
+      "path": "preparsed_data\\tarifas-mascotas.pdf"
+    },
+    "document_info": {
+      "title": "0524     1 / 3",
+      "num_pages": 3,
+      "word_count": 496,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "consulta",
+        "coste",
+        "perro",
+        "test",
+        "anestesia",
+        "15kg",
+        "tratamientos",
+        "cirugía",
+        "vacuna",
+        "ilimitadas"
+      ],
+      "insurance_terms_present": [],
+      "insurance_terms_frequencies": {},
+      "insurance_terms_ratio": 0.0,
+      "main_sections": [
+        "Allianz Mascotas\nAllianz Mascotas\nConsulta Digital",
+        "Videoconsulta\nConsulta Medicina Preventiva",
+        "Sin coste Ilimitadas\nConsulta Salud Oral",
+        "Sin coste Ilimitadas\nConsulta General",
+        "Sin coste Ilimitadas",
+        "Sin coste Ilimitadas\nSegunda Opinión",
+        "Sin coste Ilimitadas\nInterpretación De Resultados",
+        "Sin coste Ilimitadas\nConsulta \nConsulta General",
+        "Sin coste\nRevision\nRevision General",
+        "Revision Cirugía"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.328319",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "turismo-comercial-basico-ipid.pdf": {
+    "file_info": {
+      "filename": "turismo-comercial-basico-ipid.pdf",
+      "doc_hash": "78d305853a8820d0f9442d880442fc7a",
+      "file_size_bytes": 782272,
+      "last_modified": "2025-03-22T16:38:15.680834",
+      "created_date": "2025-03-22T16:38:15.047894",
+      "path": "preparsed_data\\turismo-comercial-basico-ipid.pdf"
+    },
+    "document_info": {
+      "title": "¿Qué se asegura?",
+      "num_pages": 2,
+      "word_count": 481,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "euros",
+        "vehículo",
+        "daños",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "seguro",
+        "menos",
+        "como",
+        "para"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 2,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1
+      },
+      "insurance_terms_ratio": 0.0395010395010395,
+      "main_sections": [
+        "ALLIANZ TURISMO cOMeRcIAL"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.376490",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "turismo-comercial-basico-robo-ipid.pdf": {
+    "file_info": {
+      "filename": "turismo-comercial-basico-robo-ipid.pdf",
+      "doc_hash": "67af9680925ce80796cbae7a24ead32a",
+      "file_size_bytes": 782529,
+      "last_modified": "2025-03-22T16:38:18.383999",
+      "created_date": "2025-03-22T16:38:17.644537",
+      "path": "preparsed_data\\turismo-comercial-basico-robo-ipid.pdf"
+    },
+    "document_info": {
+      "title": "¿Qué se asegura?",
+      "num_pages": 2,
+      "word_count": 500,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "vehículo",
+        "daños",
+        "euros",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "seguro",
+        "menos",
+        "robo",
+        "como"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 2,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1
+      },
+      "insurance_terms_ratio": 0.038,
+      "main_sections": [
+        "ALLIANZ TURISMO cOMeRcIAL",
+        "Daños colisión por atropello a especies"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.410519",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "turismo-comercial-perdida-total-ipid.pdf": {
+    "file_info": {
+      "filename": "turismo-comercial-perdida-total-ipid.pdf",
+      "doc_hash": "9dd1f4f3441995e6f93ea1954ae19479",
+      "file_size_bytes": 782935,
+      "last_modified": "2025-03-22T16:38:20.600456",
+      "created_date": "2025-03-22T16:38:19.809252",
+      "path": "preparsed_data\\turismo-comercial-perdida-total-ipid.pdf"
+    },
+    "document_info": {
+      "title": "¿Qué se asegura?",
+      "num_pages": 2,
+      "word_count": 495,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "euros",
+        "vehículo",
+        "daños",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "seguro",
+        "menos",
+        "como",
+        "para"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 2,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1
+      },
+      "insurance_terms_ratio": 0.03838383838383838,
+      "main_sections": [
+        "ALLIANZ TURISMO cOMeRcIAL"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.469274",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "turismo-comercial-todo-riesgo-franquicia-ipid.pdf": {
+    "file_info": {
+      "filename": "turismo-comercial-todo-riesgo-franquicia-ipid.pdf",
+      "doc_hash": "68efa3ce731ba77134b70ca0b86df6a2",
+      "file_size_bytes": 783378,
+      "last_modified": "2025-03-22T16:38:23.096632",
+      "created_date": "2025-03-22T16:38:22.044530",
+      "path": "preparsed_data\\turismo-comercial-todo-riesgo-franquicia-ipid.pdf"
+    },
+    "document_info": {
+      "title": "¿Qué se asegura?",
+      "num_pages": 2,
+      "word_count": 522,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "euros",
+        "vehículo",
+        "daños",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "como",
+        "seguro",
+        "menos",
+        "para"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "franquicia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 3,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1,
+        "franquicia": 2
+      },
+      "insurance_terms_ratio": 0.0421455938697318,
+      "main_sections": [
+        "ALLIANZ TURISMO cOMeRcIAL"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.510170",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  },
+  "turismo-comercial-todo-riesgo-ipid.pdf": {
+    "file_info": {
+      "filename": "turismo-comercial-todo-riesgo-ipid.pdf",
+      "doc_hash": "0eecd6abff05aa6d8d251938f1d1b971",
+      "file_size_bytes": 783135,
+      "last_modified": "2025-03-22T16:38:25.144900",
+      "created_date": "2025-03-22T16:38:24.428200",
+      "path": "preparsed_data\\turismo-comercial-todo-riesgo-ipid.pdf"
+    },
+    "document_info": {
+      "title": "¿Qué se asegura?",
+      "num_pages": 2,
+      "word_count": 514,
+      "paragraph_count": 1
+    },
+    "content_summary": {
+      "keywords": [
+        "euros",
+        "daños",
+        "vehículo",
+        "hasta",
+        "responsabilidad",
+        "civil",
+        "como",
+        "seguro",
+        "menos",
+        "para"
+      ],
+      "insurance_terms_present": [
+        "póliza",
+        "prima",
+        "cobertura",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia"
+      ],
+      "insurance_terms_frequencies": {
+        "póliza": 5,
+        "prima": 1,
+        "cobertura": 4,
+        "asegurado": 1,
+        "aseguradora": 1,
+        "siniestro": 3,
+        "indemnización": 2,
+        "reclamación": 2,
+        "vigencia": 1
+      },
+      "insurance_terms_ratio": 0.038910505836575876,
+      "main_sections": [
+        "ALLIANZ TURISMO cOMeRcIAL"
+      ]
+    },
+    "extraction_info": {
+      "extraction_date": "2025-03-25T17:50:50.561982",
+      "generator_version": "1.0",
+      "insurance_terms_analyzed": [
+        "póliza",
+        "prima",
+        "deducible",
+        "cobertura",
+        "exclusiones",
+        "beneficiario",
+        "asegurado",
+        "aseguradora",
+        "siniestro",
+        "indemnización",
+        "reclamación",
+        "vigencia",
+        "renovación",
+        "antigüedad",
+        "cargas",
+        "franquicia",
+        "cláusulas"
+      ]
+    }
+  }
+}

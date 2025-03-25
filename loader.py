@@ -3,16 +3,64 @@ import fitz  # PyMuPDF
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
+import re
 
 class DocumentProcessor:
-    def __init__(self, data_directory):
-        # Verificar que el directorio existe
-        if not os.path.exists(data_directory):
-            raise FileNotFoundError(f"El directorio {data_directory} no existe")
-        
-        self.data_directory = data_directory
+    def __init__(self, chunk_size=512, chunk_overlap=0.1):
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
         self.embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     
+    def create_chunks(self, text):
+        """Divide el texto en chunks con overlap."""
+        # Limpiar el texto
+        text = re.sub(r'\s+', ' ', text).strip()
+        words = text.split()
+        
+        # Calcular el overlap en palabras
+        overlap_size = int(self.chunk_size * self.chunk_overlap)
+        stride = self.chunk_size - overlap_size
+        
+        chunks = []
+        for i in range(0, len(words), stride):
+            chunk = ' '.join(words[i:i + self.chunk_size])
+            if chunk:  # Asegurarse de que el chunk no esté vacío
+                # Añadir metadata al chunk
+                chunk_info = {
+                    'text': chunk,
+                    'start_idx': i,
+                    'size': len(chunk.split()),
+                }
+                chunks.append(chunk_info)
+        
+        return chunks
+
+    def process_pdf(self, pdf_path):
+        """Procesa un archivo PDF y retorna sus chunks."""
+        try:
+            doc = fitz.open(pdf_path)
+            text_chunks = []
+            
+            for page_num in range(len(doc)):
+                page = doc[page_num]
+                text = page.get_text()
+                
+                # Crear chunks para esta página
+                page_chunks = self.create_chunks(text)
+                
+                # Añadir información de la página a cada chunk
+                for chunk in page_chunks:
+                    chunk['page'] = page_num + 1
+                    chunk['source'] = os.path.basename(pdf_path)
+                    text_chunks.extend([chunk['text']])
+            
+            return text_chunks
+            
+        except Exception as e:
+            print(f"Error procesando {pdf_path}: {str(e)}")
+            return []
+
     def dataLoader(self):
         """Carga y extrae texto de archivos PDF y TXT."""
         # Obtener lista de archivos
@@ -167,10 +215,48 @@ class DocumentProcessor:
             print(f"❌ Error en el procesamiento: {str(e)}")
             return "❌ El proceso falló"
 
+def main():
+    # Configuración
+    data_dir = "data"
+    chunk_size = 512  # Tamaño mediano por defecto
+    chunk_overlap = 0.15  # 15% de overlap
+    
+    # Inicializar procesador
+    processor = DocumentProcessor(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    
+    # Procesar documentos
+    all_chunks = []
+    pdf_files = [f for f in os.listdir(data_dir) if f.endswith('.pdf')]
+    
+    print(f"🔍 Procesando {len(pdf_files)} documentos...")
+    for pdf_file in tqdm(pdf_files):
+        pdf_path = os.path.join(data_dir, pdf_file)
+        chunks = processor.process_pdf(pdf_path)
+        all_chunks.extend(chunks)
+    
+    print(f"✅ Se generaron {len(all_chunks)} chunks")
+    
+    # Generar embeddings
+    print("🔄 Generando embeddings...")
+    embeddings = processor.embedding_model.encode(all_chunks, show_progress_bar=True)
+    
+    # Crear índice FAISS
+    print("🔄 Creando índice FAISS...")
+    dimension = embeddings.shape[1]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(embeddings.astype('float32'))
+    
+    # Guardar resultados
+    print("💾 Guardando archivos...")
+    faiss.write_index(index, "vector_index.faiss")
+    np.save("vector_texts.npy", all_chunks)
+    
+    print("✅ Proceso completado")
+    print(f"📊 Estadísticas:")
+    print(f"- Documentos procesados: {len(pdf_files)}")
+    print(f"- Chunks generados: {len(all_chunks)}")
+    print(f"- Tamaño de chunk: {chunk_size}")
+    print(f"- Overlap: {chunk_overlap*100}%")
+
 if __name__ == "__main__":
-    try:
-        processor = DocumentProcessor("data")
-        result = processor.process_documents()
-        print(f"\nResultado final: {result}")
-    except Exception as e:
-        print(f"❌ Error: {str(e)}")
+    main()

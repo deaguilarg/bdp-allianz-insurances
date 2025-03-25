@@ -6,7 +6,7 @@ def download_model():
         # Descargar el modelo
         model_path = hf_hub_download(
             repo_id="TheBloke/Llama-2-7b-Chat-GGUF",
-            filename="llama-2-7b-chat.Q5_K_S.gguf",
+            filename="llama-2-7b-chat.Q4_K_M.gguf",
             local_dir=".",
             local_dir_use_symlinks=False
         )

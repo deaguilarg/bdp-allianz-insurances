@@ -33,7 +33,7 @@ def main():
     
     if modo == "Ver todos los fragmentos":
         # Mostrar todos los fragmentos con paginación
-        fragmentos_por_pagina = 5
+        fragmentos_por_pagina = 25
         total_paginas = len(ids) // fragmentos_por_pagina + (1 if len(ids) % fragmentos_por_pagina > 0 else 0)
         
         pagina = st.number_input(
