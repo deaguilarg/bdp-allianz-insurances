@@ -9,7 +9,7 @@ import time
 class RAGSimple:
     def __init__(self, modo_prueba=False):
         # Cargar el modelo de lenguaje
-        modelo_path = "llama-2-7b-chat.Q4_K_M.gguf"
+        modelo_path = "C:/Users/sicaa/.lmstudio/models/DevQuasar/AtlaAI.Selene-1-Mini-Llama-3.1-8B-GGUF/AtlaAI.Selene-1-Mini-Llama-3.1-8B.Q4_K_M.gguf"
         if not os.path.exists(modelo_path):
             raise FileNotFoundError(f"❌ No se encontró el modelo en {modelo_path}")
             
@@ -17,7 +17,7 @@ class RAGSimple:
         self.llm = AutoModelForCausalLM.from_pretrained(
             modelo_path,
             model_type="llama",
-            gpu_layers=20,     # Más capas en GPU por menor uso de memoria (~100MB por capa)
+            gpu_layers=20,     # Más capas en GPU por menor uso de memoria
             context_length=512 if modo_prueba else 1024,  # Contexto reducido en modo prueba
             threads=6,         # Balanceado para CPU/GPU
             top_k=40,         # Mantener calidad de búsqueda
@@ -25,7 +25,7 @@ class RAGSimple:
         )
         
         # Cargar el modelo de embeddings
-        self.embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+        self.embedding_model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
         
         # Cargar índice FAISS y textos si existen
         if os.path.exists("vector_index.faiss"):
@@ -35,7 +35,6 @@ class RAGSimple:
         else:
             raise FileNotFoundError("❌ No se encontró la base de datos vectorial")
         
-        # Modo prueba para respuestas más cortas
         self.modo_prueba = modo_prueba
 
     def buscar_contexto(self, pregunta, num_resultados=1):
@@ -86,16 +85,18 @@ class RAGSimple:
 
             print("🤖 Generando respuesta...")
             inicio_generacion = time.time()
+            
             respuesta = self.llm(
                 prompt,
-                max_new_tokens=100 if self.modo_prueba else 215,  # Tokens reducidos en modo prueba
+                max_new_tokens=100 if self.modo_prueba else 215,
                 temperature=0.7,
                 top_k=40,
                 top_p=0.95,
                 repetition_penalty=1.1,
-                batch_size=2,  # Aumentado por menor uso de memoria
+                batch_size=2,
                 stop=["</s>", "[INST]"]
             )
+            
             tiempo_generacion = time.time() - inicio_generacion
             
             tiempo_total = time.time() - inicio_total
@@ -103,7 +104,7 @@ class RAGSimple:
             print(f"⏱️ Tiempo de búsqueda de contexto: {tiempo_contexto:.2f}s")
             print(f"⏱️ Tiempo de generación LLM: {tiempo_generacion:.2f}s")
 
-            return respuesta.split("[/INST]")[-1].strip()
+            return respuesta
 
         except Exception as e:
             return f"❌ Error al generar respuesta: {str(e)}"
@@ -115,9 +116,9 @@ def main():
     st.write("Haz preguntas sobre tus documentos y obtén respuestas basadas en su contenido.")
     
     # Verificar si existe el modelo
-    model_path = "llama-2-7b-chat.Q4_K_M.gguf"
+    model_path = "C:/Users/sicaa/.lmstudio/models/DevQuasar/AtlaAI.Selene-1-Mini-Llama-3.1-8B-GGUF/AtlaAI.Selene-1-Mini-Llama-3.1-8B.Q4_K_M.gguf"
     if not os.path.exists(model_path):
-        st.error("⚠️ No se encontró el modelo de Llama 2.")
+        st.error("⚠️ No se encontró el modelo.")
         st.info(f"Asegúrate de que el archivo {model_path} esté en el directorio.")
         return
     

@@ -10,7 +10,7 @@ class DocumentProcessor:
     def __init__(self, chunk_size=512, chunk_overlap=0.1):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
-        self.embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+        self.embedding_model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
     
     def create_chunks(self, text):
         """Divide el texto en chunks con overlap."""
